@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T06:47:19.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="a6ucaUiRkxdeJQlUQq-c" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T07:18:44.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="M8XIjdb9EjJsTGA7k-n0" version="19.0.0" type="github">
   <diagram id="7UxNl7ffzc32K3-nN5No" name="Page-1">
     <mxGraphModel dx="961" dy="447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -112,10 +112,22 @@
           <mxGeometry x="342.24" y="256" width="20" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QNMPOnsxm8CO7PpN0Vcf-1" value="&lt;br&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;fillColor=#21C0A5;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="514.5" y="188.5" width="19" height="21" as="geometry" />
+          <mxGeometry x="518.57" y="185" width="19" height="21" as="geometry" />
         </mxCell>
         <mxCell id="QNMPOnsxm8CO7PpN0Vcf-3" value="&lt;br&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;fillColor=#21C0A5;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="514" y="168" width="20" height="19" as="geometry" />
+          <mxGeometry x="518.57" y="167.88" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="QNMPOnsxm8CO7PpN0Vcf-5" value="&lt;br&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;fillColor=#21C0A5;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="168" width="19" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="QNMPOnsxm8CO7PpN0Vcf-6" value="&lt;br&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;fillColor=#21C0A5;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="518.07" y="205.5" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="QNMPOnsxm8CO7PpN0Vcf-7" value="&lt;br&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;fillColor=#21C0A5;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="189.5" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="QNMPOnsxm8CO7PpN0Vcf-8" value="&lt;br&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;fillColor=#21C0A5;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="642.42" y="208.5" width="20" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
