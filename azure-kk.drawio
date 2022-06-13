@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T06:57:13.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="a3R1lgD3WVPuI6wDoVSw" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-13T06:58:18.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7Zpk1R8KZWyj812HnJhF" version="20.0.1" type="github" pages="3">
   <diagram id="uLnLmKQSo1DolNBedbRa" name="postgres">
     <mxGraphModel dx="1808" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ErGysePpLnJkh2v28R3G" name="mysql">
-    <mxGraphModel dx="2249" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,7 +254,7 @@
         <mxCell id="KyIcU0In2HFDUIEg8qp9-7" value="" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="538.57" y="318" width="125.43" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="KyIcU0In2HFDUIEg8qp9-8" value="on premise Redis (v6)" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KyIcU0In2HFDUIEg8qp9-8" value="on premise" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="29.81" y="224.5" width="39.75" height="38" as="geometry" />
         </mxCell>
         <mxCell id="KyIcU0In2HFDUIEg8qp9-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;mem &amp;lt; 75%&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
