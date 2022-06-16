@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T10:37:06.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HKj2Yu91Dqe7kTdq5mAZ" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-16T10:37:20.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xvjAGkm8sRcmB1WwAuMl" version="20.0.1" type="github" pages="4">
   <diagram id="uLnLmKQSo1DolNBedbRa" name="postgres">
     <mxGraphModel dx="1585" dy="615" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,6 +411,14 @@
         <mxCell id="s3FrA9zbVCXJttgRk9wu-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/drifting/Me.png;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="35.06" y="401" width="19" height="19" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JgWLW5zDN62-dLbuyPNC" name="azure sql">
+    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
