@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T11:07:55.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cJ6JwE9fpB2xBwRdEe0F" version="20.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-16T11:10:01.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RCdWWygEYcft_jbcYCx9" version="20.0.1" type="github" pages="4">
   <diagram id="uLnLmKQSo1DolNBedbRa" name="postgres">
     <mxGraphModel dx="1585" dy="615" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,9 +76,8 @@
           <mxGeometry x="0.0542" y="-18" relative="1" as="geometry">
             <mxPoint x="483" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="400" />
-              <mxPoint x="230" y="510" />
-              <mxPoint x="483" y="510" />
+              <mxPoint x="230" y="493" />
+              <mxPoint x="483" y="493" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
