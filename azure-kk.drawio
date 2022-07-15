@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T10:57:03.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tRwDoZJzXl3umm3oUpO5" version="20.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-15T06:15:38.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="07FDYJdAqmu7aS7-SBKX" version="20.1.1" type="github" pages="7">
   <diagram id="uLnLmKQSo1DolNBedbRa" name="postgres">
-    <mxGraphModel dx="1268" dy="482" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="794" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
         <mxCell id="CbrWBGT2nR-sEhp4uTAJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;fontColor=#5C5C5C;fillColor=#d5e8d4;" parent="1" source="CbrWBGT2nR-sEhp4uTAJ-10" target="CbrWBGT2nR-sEhp4uTAJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-10" value="v13.6" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
+        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="334" y="376" width="36.48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CbrWBGT2nR-sEhp4uTAJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;fontColor=#5C5C5C;fillColor=#d5e8d4;" parent="1" source="CbrWBGT2nR-sEhp4uTAJ-12" edge="1">
@@ -41,7 +41,7 @@
             <mxPoint x="585.5999999999999" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-12" value="v13.6" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
+        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="467" y="375.75" width="36.86" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="CbrWBGT2nR-sEhp4uTAJ-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="CbrWBGT2nR-sEhp4uTAJ-26" edge="1">
@@ -94,7 +94,7 @@
         <mxCell id="CbrWBGT2nR-sEhp4uTAJ-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="CbrWBGT2nR-sEhp4uTAJ-26" target="CbrWBGT2nR-sEhp4uTAJ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-24" value="13.6" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
+        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-24" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="584.9999999999999" y="377" width="36.48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CbrWBGT2nR-sEhp4uTAJ-26" value="v 13.1&amp;nbsp;&lt;br&gt;ip :10.202.104.50" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_3;fillColor=#21C0A5;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
         <mxCell id="CbrWBGT2nR-sEhp4uTAJ-29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" parent="1" vertex="1">
           <mxGeometry x="508" y="372" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-31" value="Azure postgres flexible 13.6" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_Migration_Services.svg;" parent="1" vertex="1">
+        <mxCell id="CbrWBGT2nR-sEhp4uTAJ-31" value="Azure postgres flexible 13.7" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_Migration_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="49" y="377" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0B1lRGBKQb9XC4U9d_Wa-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-1/256/bell-z-thin-128.png" parent="1" vertex="1">
