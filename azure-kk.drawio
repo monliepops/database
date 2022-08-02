@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T03:05:37.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UIlCCFa2L9DqrR5OwNDn" version="20.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-02T03:27:35.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eUkluHEPp3jlT6uWVunL" version="20.2.2" type="github" pages="3">
   <diagram id="uLnLmKQSo1DolNBedbRa" name="postgres">
-    <mxGraphModel dx="1822" dy="794" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="426" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,14 +151,14 @@
           <mxGeometry x="581.64" y="59.5" width="38" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-21" value="golive" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="843" y="318" width="250" height="156" as="geometry">
+          <mxGeometry x="843" y="318" width="276" height="156" as="geometry">
             <mxRectangle x="843" y="318" width="64" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-22" value="psql-thk (thkdb)&#xa;psql-mx (cbo,crmp,dpms)&#xa;psql-hot (hotdb) ไม่มี่ sit&#xa;psql-sag (mxsagdb,sardb,sagdb)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zJyQPxgKkLIiPyJ2PvxQ-21" vertex="1">
-          <mxGeometry y="26" width="250" height="130" as="geometry" />
+          <mxGeometry y="26" width="276" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-25" value="In progress" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-25" value="In progress azure" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="665" y="318" width="178.28" height="156" as="geometry">
             <mxRectangle x="664" y="318" width="131" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -167,19 +167,19 @@
           <mxGeometry y="26" width="178.28" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-29" value="go live" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="843" y="168" width="250" height="150" as="geometry">
+          <mxGeometry x="843" y="168" width="274" height="150" as="geometry">
             <mxRectangle x="843" y="168" width="68" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-30" value="busidbsp01b-04b  (mxdtk,mxasm)&#xa;snsedbsp01b-04b   (sts,cls)&#xa;cbsapidbsp01b-04b(mxcbsapi)&#xa;invesdbsp01b-04b   (fcsdb,mxfcs,mxreg)&#xa;epmdbsp01b-04b (etax,epmdb,dms,sign)&#xa;acsdbsp01b (acsdb)&#xa;lwcdbsp01b (mxdms == hpdms)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zJyQPxgKkLIiPyJ2PvxQ-29" vertex="1">
-          <mxGeometry y="26" width="250" height="124" as="geometry" />
+        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-30" value="busidbsp01b-04b  (mxdtk,mxasm)&#xa;busidbpp01b-04b  (misc*,mxiwf,mxorm*,abr*)&#xa;snsedbsp01b-04b   (sts,cls)&#xa;cbsapidbsp01b-04b(mxcbsapi)&#xa;invesdbsp01b-04b   (fcsdb,mxfcs,mxreg)&#xa;epmdbsp01b-04b (etax,epmdb,dms,sign)&#xa;acsdbsp01b (acsdb)&#xa;lwcdbsp01b (mxdms) hpdms" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zJyQPxgKkLIiPyJ2PvxQ-29" vertex="1">
+          <mxGeometry y="26" width="274" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-32" value="In progress" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-32" value="In progress kk" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="664" y="168" width="178.28" height="150" as="geometry">
             <mxRectangle x="664" y="168" width="68" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-33" value="murex( 5db)&#xa;misc" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zJyQPxgKkLIiPyJ2PvxQ-32" vertex="1">
+        <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-33" value="murex( 5db)&#xa;misc    --golive  25/8/2022&#xa;mxorm  -- golive oct 22&#xa;abr  -- golive dec22" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zJyQPxgKkLIiPyJ2PvxQ-32" vertex="1">
           <mxGeometry y="26" width="178.28" height="124" as="geometry" />
         </mxCell>
         <mxCell id="zJyQPxgKkLIiPyJ2PvxQ-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/animals-105/150/icon_animal_elefante-128.png;rounded=0;sketch=0;" parent="1" vertex="1">
@@ -204,9 +204,6 @@
         </mxCell>
         <mxCell id="3ke5_2CGHgz-ptUC0S2U-8" value="voice" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="3ke5_2CGHgz-ptUC0S2U-7" vertex="1">
           <mxGeometry y="26" width="178.28" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="dL9D2Pjv300tSGBsC3KH-1" value="improve&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1094" y="167" width="178.28" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
